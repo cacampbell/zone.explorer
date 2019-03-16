@@ -1,0 +1,503 @@
+Ted Stevens Anchorage International,ANC
+Fairbanks International,FAI
+Juneau International,JNU
+Bethel,BET
+Ketchikan International,KTN
+Kenai Municipal,ENA
+Kodiak,ADQ
+Sitka Rocky Gutierrez,SIT
+Deadhorse,SCC
+Ralph Wien Memorial,OTZ
+Nome,OME
+Wiley Post-Will Rogers Memorial,BRW
+Homer,HOM
+King Salmon,AKN
+Unalaska,DUT
+Dillingham,DLG
+Lake Hood,LHD
+Petersburg James A Johnson,PSG
+Merle K (Mudhole) Smith,CDV
+Unalakleet,UNK
+Merrill Field,MRI
+Valdez Pioneer Field,VDZ
+Aniak,ANI
+St Mary's,KSM
+Wrangell,WRG
+Gustavus,GST
+Edward G Pitka Sr,GAL
+Yakutat,YAK
+Hoonah,HNH
+Klawock,AKW
+Haines,HNS
+Quinhagak,AQH
+Skagway,SGY
+Emmonak,ENM
+Cold Bay,CDB
+Fort Yukon,FYU
+Kipnuk,IIK
+Chevak,VAK
+Hooper Bay,HPB
+Toksook Bay,OOK
+Iliamna,ILI
+Selawik,WLK
+Chefornak,CFK
+Point Hope,PHO
+Scammon Bay,SCM
+Mountain Village,MOU
+Kotlik,2A9
+Robert /Bob/ Curtis Memorial,D76
+Noatak,WTK
+Kongiganak,DUY
+Sand Point,SDP
+Kasigluk,Z09
+Buckland,BVK
+Tuntutuliak,A61
+Wainwright,AWI
+Seldovia,SOV
+Alakanuk,AUK
+Eek,EEK
+Kwigillingok,GGV
+Pilot Station,0AK
+Savoonga,SVA
+Nunapitchuk,16A
+Kivalina,KVL
+Kwethluk,KWT
+Newtok,EWU
+Anaktuvuk Pass,AKP
+Shishmaref,SHH
+Gambell,GAM
+Kalskag,KLG
+Akiachak,Z13
+Bob Baker Memorial,IAN
+Marshall Don Hunter Sr,MDM
+Ralph M Calhoun Memorial,TAL
+Tununak,4KA
+Huslia,HLA
+Coldfoot,CXF
+Barter Island LRRS,BTI
+Metlakatla,MTM
+McGrath,MCG
+St Paul Island,SNP
+Nuiqsut,AQT
+Stebbins,WBB
+Atmautluak,4A2
+Nightmute,IGT
+Craig,CGA
+Tuluksak,TLT
+Larsen Bay,2A3
+Birmingham-Shuttlesworth International,BHM
+Huntsville International-Carl T Jones Field,HSV
+Mobile Regional,MOB
+Montgomery Regional (Dannelly Field),MGM
+Dothan Regional,DHN
+Bill and Hillary Clinton National/Adams Field,LIT
+Northwest Arkansas Regional,XNA
+Fort Smith Regional,FSM
+Texarkana Regional-Webb Field,TXK
+Jonesboro Municipal,JBR
+Boone County,HRO
+South Arkansas Regional at Goodwin Field,ELD
+Memorial Field,HOT
+Pago Pago International,PPG
+Phoenix Sky Harbor International,PHX
+Tucson International,TUS
+Phoenix-Mesa Gateway,IWA
+Grand Canyon National Park,GCN
+Grand Canyon West,1G4
+Laughlin/Bullhead International,IFP
+Yuma MCAS/Yuma International,NYL
+Flagstaff Pulliam,FLG
+Page Municipal,PGA
+Ernest A Love Field,PRC
+Los Angeles International,LAX
+San Francisco International,SFO
+San Diego International,SAN
+Metropolitan Oakland International,OAK
+John Wayne Airport-Orange County,SNA
+Norman Y Mineta San Jose International,SJC
+Sacramento International,SMF
+Ontario International,ONT
+Bob Hope,BUR
+Long Beach /Daugherty Field/,LGB
+Palm Springs International,PSP
+Fresno Yosemite International,FAT
+Santa Barbara Municipal,SBA
+Monterey Regional,MRY
+San Luis County Regional,SBP
+Charles M Schulz - Sonoma County,STS
+Meadows Field,BFL
+Stockton Metropolitan,SCK
+Arcata,ACV
+Santa Maria Public/Capt G Allan Hancock Field,SMX
+Redding Municipal,RDD
+Mammoth Yosemite,MMH
+McClellan-Palomar,CRQ
+Visalia Municipal,VIS
+Jack McNamara Field,CEC
+Imperial County,IPL
+Denver International,DEN
+City of Colorado Springs Municipal,COS
+Aspen-Pitkin County/Sardy Field,ASE
+Grand Junction Regional,GJT
+Durango-La Plata County,DRO
+Eagle County Regional,EGE
+Montrose Regional,MTJ
+Yampa Valley,HDN
+Gunnison-Crested Butte Regional,GUC
+Pueblo Memorial,PUB
+Fort Collins-Loveland Municipal,FNL
+San Luis Valley Regional/Bergman Field,ALS
+Bradley International,BDL
+Tweed-New Haven,HVN
+New Castle,ILG
+Miami International,MIA
+Orlando International,MCO
+Fort Lauderdale/Hollywood International,FLL
+Tampa International,TPA
+Southwest Florida International,RSW
+Palm Beach International,PBI
+Jacksonville International,JAX
+Orlando Sanford International,SFB
+St Pete-Clearwater International,PIE
+Pensacola International,PNS
+Sarasota/Bradenton International,SRQ
+Northwest Florida Beaches International,ECP
+Punta Gorda,PGD
+Eglin AFB/Destin-Ft Walton Beach,VPS
+Key West International,EYW
+Tallahassee International,TLH
+Daytona Beach International,DAB
+Melbourne International,MLB
+Gainesville Regional,GNV
+Northeast Florida Regional,SGJ
+Hartsfield - Jackson Atlanta International,ATL
+Savannah/Hilton Head International,SAV
+Augusta Regional at Bush Field,AGS
+Columbus,CSG
+Valdosta Regional,VLD
+Brunswick Golden Isles,BQK
+Southwest Georgia Regional,ABY
+Guam International,GUM
+Honolulu International,HNL
+Kahului,OGG
+Lihue,LIH
+Kona International at Keahole,KOA
+Hilo International,ITO
+Molokai,MKK
+Lanai,LNY
+Kalaupapa,LUP
+Kalaeloa (John Rodgers Field),JRF
+Waimea-Kohala,MUE
+Des Moines International,DSM
+The Eastern Iowa,CID
+Dubuque Regional,DBQ
+Waterloo Regional,ALO
+Sioux Gateway/Col Bud Day Field,SUX
+Southeast Iowa Regional,BRL
+Mason City Municipal,MCW
+Fort Dodge Regional,FOD
+Boise Air Terminal/Gowen Field,BOI
+Idaho Falls Regional,IDA
+Friedman Memorial,SUN
+Lewiston-Nez Perce County,LWS
+Joslin Field - Magic Valley Regional,TWF
+Pocatello Regional,PIH
+Chicago O'Hare International,ORD
+Chicago Midway International,MDW
+Quad City International,MLI
+General Downing - Peoria International,PIA
+Central IL Regional Airport at Bloomington-Normal,BMI
+Chicago/Rockford International,RFD
+Abraham Lincoln Capital,SPI
+University of Illinois-Willard,CMI
+Scott AFB/Midamerica,BLV
+Williamson County Regional,MWA
+Quincy Regional-Baldwin Field,UIN
+Decatur,DEC
+Indianapolis International,IND
+Fort Wayne International,FWA
+South Bend International,SBN
+Evansville Regional,EVV
+Purdue University,LAF
+Wichita Dwight D Eisenhower National,ICT
+Manhattan Regional,MHK
+Garden City Regional,GCK
+Salina Regional,SLN
+Hays Regional,HYS
+Liberal Mid-America Regional,LBL
+Topeka Regional,FOE
+Cincinnati/Northern Kentucky International,CVG
+Louisville International-Standiford Field,SDF
+Blue Grass,LEX
+Owensboro-Daviess County,OWB
+Barkley Regional,PAH
+Louis Armstrong New Orleans International,MSY
+"Baton Rouge Metropolitan, Ryan Field",BTR
+Shreveport Regional,SHV
+Lafayette Regional/Paul Fournet Field,LFT
+Alexandria International,AEX
+Monroe Regional,MLU
+Lake Charles Regional,LCH
+General Edward Lawrence Logan International,BOS
+Nantucket Memorial,ACK
+Barnstable Municipal-Boardman/Polando Field,HYA
+Worcester Regional,ORH
+Martha's Vineyard,MVY
+Provincetown Municipal,PVC
+New Bedford Regional,EWB
+Baltimore/Washington International Thurgood Marshall,BWI
+Salisbury-Ocean City Wicomico Regional,SBY
+Hagerstown Regional-Richard A Henson Field,HGR
+Portland International Jetport,PWM
+Bangor International,BGR
+Knox County Regional,RKD
+Northern Maine Regional Airport at Presque Isle,PQI
+Hancock County-Bar Harbor,BHB
+Augusta State,AUG
+Detroit Metropolitan Wayne County,DTW
+Gerald R Ford International,GRR
+Bishop International,FNT
+Cherry Capital,TVC
+Capital Region International,LAN
+Kalamazoo/Battle Creek International,AZO
+MBS International,MBS
+Sawyer International,SAW
+Houghton County Memorial,CMX
+Pellston Regional Airport of Emmet County,PLN
+Chippewa County International,CIU
+Muskegon County,MKG
+Delta County,ESC
+Ford,IMT
+Alpena County Regional,APN
+Gogebic-Iron County,IWD
+Willow Run,YIP
+Oakland County International,PTK
+Minneapolis-St Paul International/Wold-Chamberlain,MSP
+Duluth International,DLH
+Rochester International,RST
+Bemidji Regional,BJI
+St. Cloud Regional,STC
+Brainerd Lakes Regional,BRD
+Falls International-Einarson Field,INL
+Range Regional,HIB
+Lambert-St Louis International,STL
+Kansas City International,MCI
+Springfield-Branson National,SGF
+Columbia Regional,COU
+Joplin Regional,JLN
+Cape Girardeau Regional,CGI
+Kirksville Regional,IRK
+Francisco C Ada/Saipan International,GSN
+Tinian International,TNI
+Benjamin Taisacan Manglona International,GRO
+Jackson-Medgar Wiley Evers International,JAN
+Gulfport-Biloxi International,GPT
+Golden Triangle Regional,GTR
+Key Field,MEI
+Hattiesburg-Laurel Regional,PIB
+Tunica Municipal,UTA
+Tupelo Regional,TUP
+Bozeman Yellowstone International,BZN
+Billings Logan International,BIL
+Missoula International,MSO
+Glacier Park International,GPI
+Great Falls International,GTF
+Helena Regional,HLN
+Bert Mooney,BTM
+Sidney-Richland Municipal,SDY
+Yellowstone,WYS
+L M Clayton,OLF
+Wokal Field/Glasgow International,GGW
+Charlotte/Douglas International,CLT
+Raleigh-Durham International,RDU
+Piedmont Triad International,GSO
+Asheville Regional,AVL
+Wilmington International,ILM
+Fayetteville Regional/Grannis Field,FAY
+Albert J Ellis,OAJ
+Coastal Carolina Regional,EWN
+Concord Regional,JQF
+Pitt-Greenville,PGV
+Hector International,FAR
+Bismarck Municipal,BIS
+Minot International,MOT
+Grand Forks International,GFK
+Sloulin Field International,ISN
+Dickinson - Theodore Roosevelt Regional,DIK
+Devils Lake Regional,DVL
+Jamestown Regional,JMS
+Eppley Airfield,OMA
+Lincoln,LNK
+Central Nebraska Regional,GRI
+Western Nebraska Regional/William B Heilig Field,BFF
+North Platte Regional Airport Lee Bird Field,LBF
+Kearney Regional,EAR
+Manchester,MHT
+Portsmouth International at Pease,PSM
+Lebanon Municipal,LEB
+Newark Liberty International,EWR
+Atlantic City International,ACY
+Trenton Mercer,TTN
+Albuquerque International Sunport,ABQ
+Santa Fe Municipal,SAF
+Roswell International Air Center,ROW
+Lea County Regional,HOB
+Clovis Municipal,CVN
+Grant County,SVC
+Four Corners Regional,FMN
+McCarran International,LAS
+Reno/Tahoe International,RNO
+Boulder City Municipal,BVU
+Henderson Executive,HND
+North Las Vegas,VGT
+Elko Regional,EKO
+John F Kennedy International,JFK
+Laguardia,LGA
+Buffalo Niagara International,BUF
+Albany International,ALB
+Greater Rochester International,ROC
+Syracuse Hancock International,SYR
+Westchester County,HPN
+Long Island MacArthur,ISP
+Elmira/Corning Regional,ELM
+Stewart International,SWF
+Plattsburgh International,PBG
+Niagara Falls International,IAG
+Ithaca Tompkins Regional,ITH
+Greater Binghamton/Edwin A Link Field,BGM
+Watertown International,ART
+Ogdensburg International,OGS
+Adirondack Regional,SLK
+Massena International-Richards Field,MSS
+Cleveland-Hopkins International,CLE
+Port Columbus International,CMH
+James M Cox Dayton International,DAY
+Akron-Canton Regional,CAK
+Toledo Express,TOL
+Rickenbacker International,LCK
+Youngstown-Warren Regional,YNG
+Cincinnati Municipal Airport Lunken Field,LUK
+Burke Lakefront,BKL
+Will Rogers World,OKC
+Tulsa International,TUL
+Lawton-Fort Sill Regional,LAW
+Portland International,PDX
+Mahlon Sweet Field,EUG
+Rogue Valley International - Medford,MFR
+Roberts Field,RDM
+Southwest Oregon Regional,OTH
+Eastern Oregon Regional at Pendleton,PDT
+Philadelphia International,PHL
+Pittsburgh International,PIT
+Harrisburg International,MDT
+Lehigh Valley International,ABE
+Wilkes-Barre/Scranton International,AVP
+Arnold Palmer Regional,LBE
+University Park,UNV
+Erie International/Tom Ridge Field,ERI
+Williamsport Regional,IPT
+John Murtha Johnstown-Cambria County,JST
+Bradford Regional,BFD
+Dubois Regional,DUJ
+Luis Munoz Marin International,SJU
+Rafael Hernandez,BQN
+Mercedita,PSE
+Antonio Rivera Rodriguez,VQS
+Jose Aponte De La Torre,RVR
+Benjamin Rivera Noriega,CPX
+Fernando Luis Ribas Dominicci,SIG
+Eugenio Maria De Hostos,MAZ
+Theodore Francis Green State,PVD
+Block Island State,BID
+Westerly State,WST
+Charleston AFB/International,CHS
+Greenville Spartanburg International,GSP
+Myrtle Beach International,MYR
+Columbia Metropolitan,CAE
+Florence Regional,FLO
+Hilton Head,HXD
+Joe Foss Field,FSD
+Rapid City Regional,RAP
+Aberdeen Regional,ABR
+Pierre Regional,PIR
+Nashville International,BNA
+Memphis International,MEM
+McGhee Tyson,TYS
+Lovell Field,CHA
+Tri-Cities Regional TN/VA,TRI
+Dallas-Fort Worth International,DFW
+George Bush Intercontinental/Houston,IAH
+Dallas Love Field,DAL
+William P Hobby,HOU
+Austin-Bergstrom International,AUS
+San Antonio International,SAT
+El Paso International,ELP
+Midland International,MAF
+Lubbock Preston Smith International,LBB
+McAllen Miller International,MFE
+Rick Husband Amarillo International,AMA
+Corpus Christi International,CRP
+Valley International,HRL
+Robert Gray AAF,GRK
+Brownsville/South Padre Island International,BRO
+Laredo International,LRD
+Easterwood Field,CLL
+Abilene Regional,ABI
+Tyler Pounds Regional,TYR
+San Angelo Regional/Mathis Field,SJT
+Waco Regional,ACT
+Sheppard AFB/Wichita Falls Municipal,SPS
+Jack Brooks Regional,BPT
+East Texas Regional,GGG
+Salt Lake City International,SLC
+St George Regional,SGU
+Provo Municipal,PVU
+Ogden-Hinckley,OGD
+Cedar City Regional,CDC
+Ronald Reagan Washington National,DCA
+Washington Dulles International,IAD
+Richmond International,RIC
+Norfolk International,ORF
+Roanoke-Blacksburg Regional/Woodrum Field,ROA
+Charlottesville-Albemarle,CHO
+Newport News/Williamsburg International,PHF
+Lynchburg Regional/Preston Glenn Field,LYH
+Shenandoah Valley Regional,SHD
+Cyril E King,STT
+Henry E Rohlsen,STX
+Burlington International,BTV
+Rutland - Southern Vermont Regional,RUT
+Seattle-Tacoma International,SEA
+Spokane International,GEG
+Bellingham International,BLI
+Tri-Cities,PSC
+Yakima Air Terminal/McAllister Field,YKM
+Pangborn Memorial,EAT
+Pullman/Moscow Regional,PUW
+Walla Walla Regional,ALW
+Boeing Field/King County International,BFI
+Friday Harbor,FHR
+Orcas Island,ORS
+Friday Harbor,W33
+General Mitchell International,MKE
+Dane County Regional-Truax Field,MSN
+Green Bay-Austin Straubel International,GRB
+Appleton International,ATW
+Central Wisconsin,CWA
+La Crosse Regional,LSE
+Rhinelander-Oneida County,RHI
+Chippewa Valley Regional,EAU
+Yeager,CRW
+Tri-State/Milton J Ferguson Field,HTS
+North Central West Virginia,CKB
+Morgantown Municipal-Walter L Bill Hart Field,MGW
+Greenbrier Valley,LWB
+Mid-Ohio Valley Regional,PKB
+Jackson Hole,JAC
+Casper/Natrona County International,CPR
+Yellowstone Regional,COD
+Gillette-Campbell County,GCC
+Rock Springs-Sweetwater County,RKS
+Laramie Regional,LAR
+Cheyenne Regional/Jerry Olson Field,CYS
+Riverton Regional,RIW
